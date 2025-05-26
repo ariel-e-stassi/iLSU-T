@@ -30,15 +30,12 @@ The main contributions of this work are:
 This repository is organized is several folders, one per each process. 
 In the following, it is presented a list of the folders with a brief content description for each one:
 * <u>preprocessing</u>: preprocessing methods to obtain iLSU-T episodes frow raw data, including text files.
-* <u>data</u>: csv file with all the iLSU-T episodes and metadata. Please see section 2.1 for access the dataset. FYI, you might have to adjust paths to data (episodes and whisperx files) in .csv.
+* <u>data</u>: csv file with all the iLSU-T episodes and metadata. Please see section 3 for access the dataset. FYI, you might have to adjust paths to data (episodes and whisperx files) in .csv.
 * <u>video_clipping_and_visual_feats</u>: a Jupyter notebook for exploring the iLSU-T episodes and generate video-clips. You will find the instructions to compute I3D visual features from video-clips.
 * <u>split_and_package_datasets</u>: the scripts for splitting data into train, val and test sets for the whole dataset, and the three considered subsets in the paper.
 * <u>slt_config_files</u>: config files for the three SOTA methods used in the paper.
 
-
-
-
-## 2.1. iLSU-T dataset download
+## 3. iLSU-T dataset download
 Please visit [this website](https://iie.fing.edu.uy/proyectos/lsu-ds/en/ilsu-t/) for download the iLSU-T dataset after accepting the License of Restricted Use.
 
 Available data in the website: 
@@ -46,8 +43,7 @@ Available data in the website:
 * [WhisperX](https://github.com/m-bain/whisperX) transcriptions, and
 * 20 hours of manual aligned WhisperX transcriptions (work in progress...)
 
-
-## Tested methods on iLSU-T
+## 4. Tested methods on iLSU-T
 * [SLT](https://github.com/neccam/slt) 
 * [SCULT](https://github.com/avoskou/Stochastic-Transformer-Networks-with-Linear-Competing-Units-Application-to-end-to-end-SL-Translatio) 
 * [GASLT](https://github.com/YinAoXiong/GASLT)
