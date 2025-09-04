@@ -51,6 +51,18 @@ Available data in the website:
 ## Acknowledgements
 iLSU-T was partially supported by a CAP--UdelaR scholarship, Uruguay. Some of the experiments were carried out using ClusterUY. We acknowledge DiNaTel Uruguay for providing us with the raw data, the NICA--UdelaR team for fruitful interdisciplinary discussions, and G. Gómez and F. Lecumberry for their website assistance.
 
+If you use this code and/or data for your work, please do not forget to cite us: 
+'''
+@inproceedings{stassi2025ilsut,
+  title={iLSU-T: an Open Dataset for Uruguayan Sign Language Translation},
+  author={Stassi, Ariel E and Boria, Yanina and Di Martino, J Mat{\'\i}as and Randall, Gregory},
+  booktitle={2025 IEEE 19th International Conference on Automatic Face and Gesture Recognition (FG)},
+  pages={1--10},
+  year={2025},
+  organization={IEEE}
+}
+'''
+
 
 
 
