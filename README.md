@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 This is the code and repository for the article ([link to the full paper](https://ieeexplore.ieee.org/abstract/document/11099209/)): 
-> Stassi, A., Boria, Y., Di Martino, M., & Randall, G. (2025). iLSU-T: an Open Dataset for Uruguayan Sign Language Translation. In Proceedings of the 19th IEEE International Conference on Automatic Face and Gesture Recoginition (pp. dddd-xxxx).
+> Stassi, A., Boria, Y., Di Martino, M., & Randall, G. (2025). iLSU-T: an Open Dataset for Uruguayan Sign Language Translation. In Proceedings of the 19th IEEE International Conference on Automatic Face and Gesture Recoginition (pp. 1-10).
 
 The main contributions of this work are:
 
